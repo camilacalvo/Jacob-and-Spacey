@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="JACOBSPACEYprint-06" size="4.000000 3.242991" />
+    <ImageTarget name="tierra" size="4.000000 4.381471" />
+    <ImageTarget name="ALGOQUIN" size="4.000000 4.178988" />
+  </Tracking>
+</QCARConfig>

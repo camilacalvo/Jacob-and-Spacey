@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OPENING_LOGO.unity
+    guid: 790c505954f854797b75a6515a958ef6
+  - enabled: 1
+    path: Assets/Scenes/INTRO_VIDEO.unity
+    guid: 064c96062226c4b2e88419314e2e96a3
+  - enabled: 1
+    path: Assets/Scenes/INTRO_TEXTO.unity
+    guid: 77bc9a1e847a24357a5369f495732042
+  - enabled: 1
+    path: Assets/Scenes/MAINMENU.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SCANNED.unity
+    guid: 37f6cde0d36e740a5a3568e7b35fd1ad
+  - enabled: 1
+    path: Assets/Scenes/CONTACTS.unity
+    guid: 59533ba40cd854d17a36fbc68e9f664a
+  - enabled: 1
+    path: Assets/Scenes/PLANETS.unity
+    guid: f016dc65b36e844ee8de2069274429c2
+  - enabled: 1
+    path: Assets/Scenes/CLUE2.unity
+    guid: c7000b4f98701473fb7ea6ced8ca37e1
+  - enabled: 1
+    path: Assets/Scenes/ASKLOCALS.unity
+    guid: eb4460589b07a4845b76a157429f80ef
+  - enabled: 1
+    path: Assets/Scenes/LOCALS.unity
+    guid: 080512b4fc32b44ed801a2f72d526650
+  - enabled: 1
+    path: Assets/Scenes/KARAOKE.unity
+    guid: f2c88353f489747049670cd18a0e7782
+  - enabled: 1
+    path: Assets/Scenes/URANUS.unity
+    guid: 04ff9a5dc175c4bf3bd55c9a9ff17aa3
+  m_configObjects: {}
